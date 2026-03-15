@@ -44,18 +44,14 @@ Experience working with large-scale **public health databases**:
 -   DHS *(Demographic and Health Surveys)*
 
 ------------------------------------------------------------------------
-
 ## 🎓 Education
 
--   🎓 PhD Candidate in Epidemiology — University of São Paulo (USP)
--   🎓 MSc in Public Health — Federal University of Rio Grande do Sul
-    (UFRGS)
--   🎓 MBA in Data Science and Analytics — ![USP / ESALQ]<https://mbauspesalq.com>
--   🎓 Specialization in Health Economics and Management — USP
--   🎓 Specialization in Global Health and Health Diplomacy — Fiocruz
--   🎓 Postgraduate in Tropical Medicine and International Health —
-    Universidade Lúrio
--   🎓 Bachelor in Nursing — Instituto Superior de Ciências da Saúde
+- 🎓 PhD Candidate in Epidemiology (2021–Present) — [University of São Paulo (USP)](https://www5.usp.br/)
+- 🎓 MpH in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
+- 🎓 MBA in Data Science and Analytics (2022–2024) — [USP / ESALQ](https://mbauspesalq.com/)
+- 🎓 Specialization in Health Economics and Management (2023–2024) — [Faculty of Public Health – USP](https://www.fsp.usp.br/)
+- 🎓 Specialization in Global Health and Health Diplomacy (2021 - 2022) — [Fiocruz](https://portal.fiocruz.br/)
+- 🎓 Postgraduate in Tropical Medicine and International Health (2015–2017) — [Universidade Lúrio](https://www.unilurio.ac.mz/)
 
 ------------------------------------------------------------------------
 
