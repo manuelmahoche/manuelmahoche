@@ -1,0 +1,239 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+\section{Hi there 👋 I'm Manuel
+Mahoche}\label{hi-there-im-manuel-mahoche}
+
+⭐ Researcher in \textbf{Epidemiology, Health Economics and Data
+Science}
+
+🌍 PhD Candidate in Epidemiology at the \textbf{University of São Paulo
+(USP)} 📊 Consultant at the \textbf{Brazilian Ministry of Health} 🏥
+Researcher working with \textbf{health systems, epidemiology, and health
+data science}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{🔬 Research Interests}\label{research-interests}
+
+\begin{itemize}
+\tightlist
+\item
+  Health Inequalities
+\item
+  Epidemiology of Communicable and Non-Communicable Diseases
+\item
+  Health Economics
+\item
+  Global Health and Health Diplomacy
+\item
+  Health Systems and Public Policy
+\item
+  Data Science applied to Public Health
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{💻 Tools \& Languages}\label{tools-languages}
+
+\pandocbounded{\includegraphics[keepaspectratio]{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}}
+\pandocbounded{\includegraphics[keepaspectratio]{https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white}}
+\pandocbounded{\includegraphics[keepaspectratio]{https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white}}
+\pandocbounded{\includegraphics[keepaspectratio]{https://img.shields.io/badge/Stata-1A4C7C?style=for-the-badge}}
+\pandocbounded{\includegraphics[keepaspectratio]{https://img.shields.io/badge/SPSS-003A8F?style=for-the-badge}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{📊 Health Data Systems}\label{health-data-systems}
+
+Experience working with large-scale \textbf{public health databases}:
+
+\begin{itemize}
+\tightlist
+\item
+  DATASUS (SIH, SIA, SINAN, SIM, SINASC, etc)
+\item
+  DHS \emph{(Demographic and Health Surveys)}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{🎓 Education}\label{education}
+
+\begin{itemize}
+\tightlist
+\item
+  🎓 PhD Candidate in Epidemiology --- University of São Paulo (USP)
+\item
+  🎓 MSc in Public Health --- Federal University of Rio Grande do Sul
+  (UFRGS)
+\item
+  🎓 MBA in Data Science and Analytics --- !{[}USP /
+  ESALQ{]}\url{https://mbauspesalq.com}
+\item
+  🎓 Specialization in Health Economics and Management --- USP
+\item
+  🎓 Specialization in Global Health and Health Diplomacy --- Fiocruz
+\item
+  🎓 Postgraduate in Tropical Medicine and International Health ---
+  Universidade Lúrio
+\item
+  🎓 Bachelor in Nursing --- Instituto Superior de Ciências da Saúde
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{🏥 Professional Experience}\label{professional-experience}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Consultant --- Ministry of Health (Brazil)} Department of
+  Health Economics and Development (DESID)
+\item
+  \textbf{Research Assistant --- Institute for Health Policy Studies
+  (IEPS)}
+\item
+  \textbf{Professor and Researcher --- Universidade Lúrio (Mozambique)}
+\item
+  \textbf{Researcher --- Mozambique Institute for Health Education and
+  Research (MIHER)}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{🌐 Academic Profiles}\label{academic-profiles}
+
+🔗 Lattes \url{http://lattes.cnpq.br/3626520704114870}
+
+🆔 ORCID \url{https://orcid.org/0000-0002-9784-6402}
+
+💼 LinkedIn \url{https://www.linkedin.com/in/manuel-mahoche-880108105/}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{📊 GitHub Stats}\label{github-stats}
+
+\begin{figure}
+\centering
+\pandocbounded{\includegraphics[keepaspectratio]{https://github-readme-stats.vercel.app/api?username=manuelmahoche&show_icons=true}}
+\caption{Manuel's GitHub stats}
+\end{figure}
+
+\begin{figure}
+\centering
+\pandocbounded{\includegraphics[keepaspectratio]{https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmahoche&layout=compact}}
+\caption{Top Languages}
+\end{figure}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{📚 Current Work}\label{current-work}
+
+Currently working on:
+
+\begin{itemize}
+\tightlist
+\item
+  Health Economics studies for the \textbf{Brazilian Unified Health
+  System (SUS)}
+\item
+  Cost-effectiveness analysis of public health interventions
+\item
+  Analysis of large-scale epidemiological datasets
+\item
+  Health data science pipelines using \textbf{R, SQL and Python}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{🤝 Collaboration}\label{collaboration}
+
+I am interested in collaborating on:
+
+\begin{itemize}
+\tightlist
+\item
+  Epidemiology research
+\item
+  Health economics
+\item
+  Global health projects
+\item
+  Data science for public health
+\item
+  Open health data projects
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+⭐ \emph{Using data science and epidemiology to support evidence-based
+public health policies.}
+
+\end{document}
