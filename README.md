@@ -9,7 +9,7 @@ science**
 
 ------------------------------------------------------------------------
 
-## 🔬 Research Interests
+## Research Interests
 
 -   Health Inequalities
 -   Health Economics
@@ -20,7 +20,7 @@ science**
 
 ------------------------------------------------------------------------
 
-## 💻 Tools & Languages
+## Tools & Languages
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,14 +34,14 @@ science**
 
 Experience working with large-scale **public health databases**:
 
--   DATASUS (SIH, SIA, SINAN, SIM, SINASC, etc)
+-   [DATASUS](https://datasus.saude.gov.br/) (SIH, SIA, SINAN, SIM, SINASC)
 -   [DHS (*Demographic and Health Surveys*)](https://dhsprogram.com/)
--   
+-   [ANS](https://www.gov.br/ans/pt-br) (TIS/TUSS)
 ------------------------------------------------------------------------
-## 🎓 Education
+## Education
 
 - PhD Candidate in Epidemiology (2021–Present) — [University of São Paulo (USP)](https://www5.usp.br/)
-- MpH in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
+- MSc in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
 - MBA in Data Science and Analytics (2022–2024) — [USP / ESALQ](https://mbauspesalq.com/)
 - Specialization in Health Economics and Management (2023–2024) — [Faculty of Public Health – USP](https://www.fsp.usp.br/)
 - Specialization in Global Health and Health Diplomacy (2021 - 2022) — [Fiocruz](https://portal.fiocruz.br/)
@@ -53,8 +53,7 @@ Experience working with large-scale **public health databases**:
 
 -   **Consultant — Ministry of Health (Brazil)** Department of Health
     Economics and Development (SE/DESID)
--   **Consultant - Ministry of Health (Brazil)**
-  OPAS/WHO at Health Surveillance Secretariat (SVSA/ADENT) — 12 months
+-   **Consultant - Ministry of Health (Brazil)** OPAS/WHO at Health Surveillance Secretariat (SVSA/ADENT) — 12 months
 -   **2023 - 2025: Research Assistant — Institute for Health Policy Studies (IEPS)**
 -   **2015 - present: Teacher and Researcher — Universidade Lúrio (Mozambique)**
 -   **201 - 2023" Researcher — Mozambique Institute for Health Education and
@@ -65,9 +64,7 @@ Experience working with large-scale **public health databases**:
 ## 🌐 Academic Profiles
 
 🔗 Lattes <http://lattes.cnpq.br/3626520704114870>
-
 🆔 ORCID <https://orcid.org/0000-0002-9784-6402>
-
 💼 LinkedIn <https://www.linkedin.com/in/manuel-mahoche-880108105/>
 
 ------------------------------------------------------------------------
