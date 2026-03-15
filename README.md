@@ -33,14 +33,9 @@
 
 Experience working with large-scale **public health databases**:
 
-* DATASUS
-* SIH (Hospital Information System)
-* SIA (Ambulatory Information System)
-* SINAN
-* SIM
-* SINASC
-* SI-PNI
-
+* DATASUS (SIH, SIA, SINAN, SIM, SINASC, etc)
+* DHS *(Demographic and Health Surveys)*
+ 
 ---
 
 ## 🎓 Education
