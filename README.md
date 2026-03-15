@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Hi there 👋 I'm Manuel Mahoche
 
 ⭐ Researcher in **Epidemiology, Health Economics and Data Science**
