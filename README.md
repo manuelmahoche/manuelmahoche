@@ -12,8 +12,8 @@ science**
 ## 🔬 Research Interests
 
 -   Health Inequalities
--   Epidemiology of Communicable and Non-Communicable Diseases
 -   Health Economics
+-   Epidemiology of Communicable and Non-Communicable Diseases
 -   Global Health and Health Diplomacy
 -   Health Systems and Public Policy
 -   Data Science applied to Public Health
@@ -30,32 +30,34 @@ science**
 
 ------------------------------------------------------------------------
 
-## 📊 Health Data Systems
+## Health Data Systems
 
 Experience working with large-scale **public health databases**:
 
 -   DATASUS (SIH, SIA, SINAN, SIM, SINASC, etc)
--   DHS *(Demographic and Health Surveys)*
-
+-   [DHS (*Demographic and Health Surveys*)](https://dhsprogram.com/)
+-   
 ------------------------------------------------------------------------
 ## 🎓 Education
 
-- 🎓 PhD Candidate in Epidemiology (2021–Present) — [University of São Paulo (USP)](https://www5.usp.br/)
-- 🎓 MpH in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
-- 🎓 MBA in Data Science and Analytics (2022–2024) — [USP / ESALQ](https://mbauspesalq.com/)
-- 🎓 Specialization in Health Economics and Management (2023–2024) — [Faculty of Public Health – USP](https://www.fsp.usp.br/)
-- 🎓 Specialization in Global Health and Health Diplomacy (2021 - 2022) — [Fiocruz](https://portal.fiocruz.br/)
-- 🎓 Postgraduate in Tropical Medicine and International Health (2015–2017) — [Universidade Lúrio](https://www.unilurio.ac.mz/)
+- PhD Candidate in Epidemiology (2021–Present) — [University of São Paulo (USP)](https://www5.usp.br/)
+- MpH in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
+- MBA in Data Science and Analytics (2022–2024) — [USP / ESALQ](https://mbauspesalq.com/)
+- Specialization in Health Economics and Management (2023–2024) — [Faculty of Public Health – USP](https://www.fsp.usp.br/)
+- Specialization in Global Health and Health Diplomacy (2021 - 2022) — [Fiocruz](https://portal.fiocruz.br/)
+- Postgraduate in Tropical Medicine and International Health (2015–2017) — [Universidade Lúrio](https://www.unilurio.ac.mz/)
 
 ------------------------------------------------------------------------
 
-## 🏥 Professional Experience
+## Professional Experience
 
 -   **Consultant — Ministry of Health (Brazil)** Department of Health
-    Economics and Development (DESID)
--   **Research Assistant — Institute for Health Policy Studies (IEPS)**
--   **Professor and Researcher — Universidade Lúrio (Mozambique)**
--   **Researcher — Mozambique Institute for Health Education and
+    Economics and Development (SE/DESID)
+-   **Consultant - Ministry of Health (Brazil)**
+  OPAS/WHO at Health Surveillance Secretariat (SVSA/ADENT) — 12 months
+-   **2023 - 2025: Research Assistant — Institute for Health Policy Studies (IEPS)**
+-   **2015 - present: Teacher and Researcher — Universidade Lúrio (Mozambique)**
+-   **201 - 2023" Researcher — Mozambique Institute for Health Education and
     Research (MIHER)**
 
 ------------------------------------------------------------------------
@@ -80,7 +82,7 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel
 
 ------------------------------------------------------------------------
 
-## 📚 Current Work
+## Current Work
 
 Currently working on:
 
@@ -92,7 +94,7 @@ Currently working on:
 
 ------------------------------------------------------------------------
 
-## 🤝 Collaboration
+## Collaboration
 
 I am interested in collaborating on:
 
