@@ -3,7 +3,7 @@
 ⭐ Researcher in **Epidemiology, Health Economics and Data Science**
 
 🌍 PhD Candidate in Epidemiology at the **University of São Paulo
-(USP)** 📊 Consultant at the **Brazilian Ministry of Health** 🏥
+(USP)** 📊 Data Science and Health Systems at the **Brazilian Ministry of Health** 🏥
 Researcher working with **health systems, epidemiology, and health data
 science**
 
@@ -34,13 +34,13 @@ science**
 
 Experience working with large-scale **public health databases**:
 
--   [DATASUS](https://datasus.saude.gov.br/) (SIH, SIA, SINAN, SIM, SINASC)
+-   [DATASUS](https://datasus.saude.gov.br/) (SIH, CNES, SIA, SINAN, SIM, SINASC)
 -   [DHS (*Demographic and Health Surveys*)](https://dhsprogram.com/)
 -   [ANS](https://www.gov.br/ans/pt-br) (TIS/TUSS)
 ------------------------------------------------------------------------
 ## Education
 
-- PhD Candidate in Epidemiology (2021–Present) — [University of São Paulo (USP)](https://www5.usp.br/)
+- PhD(c) in Epidemiology — [University of São Paulo (USP)](https://www5.usp.br/)
 - MSc in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
 - MBA in Data Science and Analytics (2022–2024) — [USP / ESALQ](https://mbauspesalq.com/)
 - Specialization in Health Economics and Management (2023–2024) — [Faculty of Public Health – USP](https://www.fsp.usp.br/)
@@ -51,9 +51,8 @@ Experience working with large-scale **public health databases**:
 
 ## Professional Experience
 
--   **Consultant — Ministry of Health (Brazil)** Department of Health
-    Economics and Development (SE/DESID)
--   **Consultant - Ministry of Health (Brazil)** OPAS/WHO at Health Surveillance Secretariat (SVSA/ADENT) — 12 months
+-   **2025 - Ministry of Health (Brazil)** Department of Health Economics and Development (SE/DESID)
+-   **2025 (01-12) - Ministry of Health (Brazil)** OPAS/WHO at Health Surveillance Secretariat (SVSA/ADENT) — 12 months
 -   **2023 - 2025: Research Assistant — Institute for Health Policy Studies (IEPS)**
 -   **2015 - present: Teacher and Researcher — Universidade Lúrio (Mozambique)**
 -   **201 - 2023" Researcher — Mozambique Institute for Health Education and
