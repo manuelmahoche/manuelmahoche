@@ -1,24 +1,23 @@
 # Hi there 👋 I'm Manuel Mahoche
 
-⭐ Researcher in **Epidemiology, Health Economics and Data Science**
+⭐ Epidemiologist, researcher, and data scientist in public health, health economics, and epidemiological surveillance.
 
-🌍 PhD Candidate in Epidemiology at the **University of São Paulo
-(USP)** 📊 Data Science and Health Systems at the **Brazilian Ministry of Health** 🏥
-Researcher working with **health systems, epidemiology, and health data
-science**
+🌍 PhD Candidate in Epidemiology at the **University of São Paulo (USP)**  
+📊 Consultant in health economics and public health data analysis  
+🏥 Researcher working with **health systems, epidemiology, and data science**
 
-------------------------------------------------------------------------
+---
 
 ## Research Interests
 
--   Health Inequalities
--   Health Economics
--   Epidemiology of Communicable and Non-Communicable Diseases
--   Global Health and Health Diplomacy
--   Health Systems and Public Policy
--   Data Science applied to Public Health
+- Health Inequalities
+- Health Economics
+- Epidemiology of Communicable and Non-Communicable Diseases
+- Global Health and Health Diplomacy
+- Health Systems and Public Policy
+- Data Science applied to Public Health
 
-------------------------------------------------------------------------
+---
 
 ## Tools & Languages
 
@@ -28,79 +27,75 @@ science**
 ![Stata](https://img.shields.io/badge/Stata-1A4C7C?style=for-the-badge)
 ![SPSS](https://img.shields.io/badge/SPSS-003A8F?style=for-the-badge)
 
-------------------------------------------------------------------------
+---
 
 ## Health Data Systems
 
-Experience working with large-scale **public health databases**:
+Experience working with large-scale public health databases:
 
--   [DATASUS](https://datasus.saude.gov.br/) (SIH, CNES, SIA, SINAN, SIM, SINASC)
--   [DHS (*Demographic and Health Surveys*)](https://dhsprogram.com/)
--   [ANS](https://www.gov.br/ans/pt-br) (TIS/TUSS)
-------------------------------------------------------------------------
+- [DATASUS](https://datasus.saude.gov.br/) (SIH, CNES, SIA, SINAN, SIM, SINASC)
+- [DHS (Demographic and Health Surveys)](https://dhsprogram.com/)
+- [ANS](https://www.gov.br/ans/pt-br) (TIS/TUSS)
+
+---
+
 ## Education
 
-- PhD(c) in Epidemiology — [University of São Paulo (USP)](https://www5.usp.br/)
-- MSc in Public Health (2019–2020) — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
-- MBA in Data Science and Analytics (2022–2024) — [USP / ESALQ](https://mbauspesalq.com/)
-- Specialization in Health Economics and Management (2023–2024) — [Faculty of Public Health – USP](https://www.fsp.usp.br/)
-- Specialization in Global Health and Health Diplomacy (2021 - 2022) — [Fiocruz](https://portal.fiocruz.br/)
-- Postgraduate in Tropical Medicine and International Health (2015–2017) — [Universidade Lúrio](https://www.unilurio.ac.mz/)
+- PhD Candidate in Epidemiology — [University of São Paulo (USP)](https://www5.usp.br/)
+- MSc in Public Health — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
+- MBA in Data Science and Analytics — [USP / ESALQ](https://mbauspesalq.com/)
+- Specialization in Health Economics and Management — [Faculty of Public Health, USP](https://www.fsp.usp.br/)
+- Specialization in Global Health and Health Diplomacy — [Fiocruz](https://portal.fiocruz.br/)
+- Postgraduate in Tropical Medicine and International Health — [Universidade Lúrio](https://www.unilurio.ac.mz/)
 
-------------------------------------------------------------------------
+---
 
 ## Professional Experience
 
--   **2025 - Ministry of Health (Brazil)** Department of Health Economics and Development (SE/DESID)
--   **2025 (01-12) - Ministry of Health (Brazil)** OPAS/WHO at Health Surveillance Secretariat (SVSA/ADENT) — 12 months
--   **2023 - 2025: Research Assistant — Institute for Health Policy Studies (IEPS)**
--   **2015 - present: Teacher and Researcher — Universidade Lúrio (Mozambique)**
--   **201 - 2023" Researcher — Mozambique Institute for Health Education and
-    Research (MIHER)**
+- **2025 - present:** Consultant — Department of Health Economics and Development, Ministry of Health (Brazil)
+- **2025:** Consultant — OPAS/WHO at the Health Surveillance Secretariat (SVSA/ADENT), Ministry of Health (Brazil)
+- **2023 - 2025:** Research Assistant — Institute for Health Policy Studies (IEPS)
+- **2015 - present:** Teacher and Researcher — Universidade Lúrio (Mozambique)
+- **2021 - 2023:** Researcher — Mozambique Institute for Health Education and Research (MIHER)
 
-------------------------------------------------------------------------
+---
+
+## Featured Projects
+
+- [P10_acesso-cuidados-hiv-ssa-dhs](https://github.com/manuelmahoche/P10_acesso-cuidados-hiv-ssa-dhs) — analysis of access to HIV care using DHS data
+- [manuelmahoche](https://github.com/manuelmahoche/manuelmahoche) — personal academic and professional profile
+
+---
 
 ## 🌐 Academic Profiles
 
-🔗 Lattes <http://lattes.cnpq.br/3626520704114870>
-🆔 ORCID <https://orcid.org/0000-0002-9784-6402>
-💼 LinkedIn <https://www.linkedin.com/in/manuel-mahoche-880108105/>
+- [Lattes](http://lattes.cnpq.br/3626520704114870)
+- [ORCID](https://orcid.org/0000-0002-9784-6402)
+- [LinkedIn](https://www.linkedin.com/in/manuel-mahoche-880108105/)
 
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-![Manuel's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=manuelmahoche&show_icons=true)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmahoche&layout=compact)
-
-------------------------------------------------------------------------
+---
 
 ## Current Work
 
 Currently working on:
 
--   Health Economics studies for the **Brazilian Unified Health System
-    (SUS)**
--   Cost-effectiveness analysis of public health interventions
--   Analysis of large-scale epidemiological datasets
--   Health data science pipelines using **R, SQL and Python**
+- Health economics studies for the Brazilian Unified Health System (SUS)
+- Cost-effectiveness analysis of public health interventions
+- Analysis of large-scale epidemiological datasets
+- Health data science pipelines using R, SQL, and Python
 
-------------------------------------------------------------------------
+---
 
 ## Collaboration
 
 I am interested in collaborating on:
 
--   Epidemiology research
--   Health economics
--   Global health projects
--   Data science for public health
--   Open health data projects
+- Epidemiology research
+- Health economics
+- Global health projects
+- Data science for public health
+- Open health data projects
 
-------------------------------------------------------------------------
+---
 
-⭐ *Using data science and epidemiology to support evidence-based public
-health policies.*
+⭐ Using data science and epidemiology to support evidence-based public health policies.
