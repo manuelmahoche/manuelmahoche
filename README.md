@@ -5,7 +5,7 @@
 I work on health inequalities in sub-Saharan Africa and Brazil. Most of my work uses large population surveys and administrative health data, with survey-weighted models, multilevel methods and, more recently, machine learning for prediction.
 
 - Consultant, Department of Health Economics (DESID/SE), Ministry of Health, Brazil (since 2025)
-- Lecturer and Head of the Department of Research, Extension and Postgraduate Studies, Faculty of Health Sciences, Universidade Lúrio, Mozambique (since 2014)
+- Lecturer and researcher, Faculty of Health Sciences, Universidade Lúrio, Mozambique (since 2014); former Head of the Department of Research, Extension and Postgraduate Studies
 - PhD in Epidemiology, School of Public Health, University of São Paulo (FSP/USP), 2026
 
 ## Research
@@ -55,7 +55,7 @@ R packages I use most: `tidyverse`, `survey`, `srvyr`, `arrow`, `haven`, `tidymo
 | 2025 | Consultant (PAHO/WHO) | Health and Environment Surveillance Secretariat (SVSA), Ministry of Health, Brazil |
 | 2024-2025 | Research intern | Institute for Health Policy Studies (IEPS) |
 | 2021-2023 | Researcher | Mozambique Institute for Health Education and Research (MIHER) |
-| 2014-present | Lecturer and researcher | Universidade Lúrio, Mozambique |
+| 2014-present | Lecturer and researcher; former Head of the Department of Research, Extension and Postgraduate Studies | Universidade Lúrio, Mozambique |
 
 ## Publications
 
