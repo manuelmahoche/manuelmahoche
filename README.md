@@ -1,101 +1,74 @@
-# Hi there 👋 I'm Manuel Mahoche
+# Manuel Mahoche, PhD
 
-⭐ Epidemiologist, researcher, and data scientist in public health, health economics, and epidemiological surveillance.
+**Epidemiologist · Health data scientist · Brazil and Mozambique**
 
-🌍 PhD Candidate in Epidemiology at the **University of São Paulo (USP)**  
-📊 Consultant in health economics and public health data analysis  
-🏥 Researcher working with **health systems, epidemiology, and data science**
+I work on health inequalities in sub-Saharan Africa and Brazil. Most of my work uses large population surveys and administrative health data, with survey-weighted models, multilevel methods and, more recently, machine learning for prediction.
 
----
+- Consultant, Department of Health Economics (DESID/SE), Ministry of Health, Brazil (since 2025)
+- Lecturer and Head of the Department of Research, Extension and Postgraduate Studies, Faculty of Health Sciences, Universidade Lúrio, Mozambique (since 2014)
+- PhD in Epidemiology, School of Public Health, University of São Paulo (FSP/USP), 2026
 
-## Research Interests
+## Research
 
-- Health Inequalities
-- Health Economics
-- Epidemiology of Communicable and Non-Communicable Diseases
-- Global Health and Health Diplomacy
-- Health Systems and Public Policy
-- Data Science applied to Public Health
+- Sexual and reproductive health inequalities in sub-Saharan Africa (DHS data)
+- HIV testing and cervical cancer screening: uptake, missed opportunities and prediction models
+- Maternal and perinatal health, mental health and access to care
+- Use, costs and equity of services in the Brazilian Unified Health System (SUS)
+- Health economics and cost analysis for public policy
 
----
+## Data I work with
 
-## Tools & Languages
+- [Demographic and Health Surveys (DHS)](https://dhsprogram.com/): pooled multi-country analyses
+- [DATASUS](https://datasus.saude.gov.br/): SIH, SIA, CNES, SIM, SINASC, SINAN
+- [Global Burden of Disease (IHME)](https://www.healthdata.org/research-analysis/gbd)
+- [PNAD Contínua (IBGE)](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html)
+- [ANS](https://www.gov.br/ans/pt-br) (TISS/TUSS)
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A4C7C?style=for-the-badge)
-![SPSS](https://img.shields.io/badge/SPSS-003A8F?style=for-the-badge)
+## Tools
 
----
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Arrow](https://img.shields.io/badge/Arrow%20%2F%20Parquet-1F4E79?style=flat-square)
+![Stata](https://img.shields.io/badge/Stata-1A4C7C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Health Data Systems
-
-Experience working with large-scale public health databases:
-
-- [DATASUS](https://datasus.saude.gov.br/) (SIH, CNES, SIA, SINAN, SIM, SINASC)
-- [DHS (Demographic and Health Surveys)](https://dhsprogram.com/)
-- [ANS](https://www.gov.br/ans/pt-br) (TIS/TUSS)
-
----
+R packages I use most: `tidyverse`, `survey`, `srvyr`, `arrow`, `haven`, `tidymodels`.
 
 ## Education
 
-- PhD Candidate in Epidemiology — [University of São Paulo (USP)](https://www5.usp.br/)
-- MSc in Public Health — [Federal University of Rio Grande do Sul (UFRGS)](https://www.ufrgs.br/)
-- MBA in Data Science and Analytics — [USP / ESALQ](https://mbauspesalq.com/)
-- Specialization in Health Economics and Management — [Faculty of Public Health, USP](https://www.fsp.usp.br/)
-- Specialization in Global Health and Health Diplomacy — [Fiocruz](https://portal.fiocruz.br/)
-- Postgraduate in Tropical Medicine and International Health — [Universidade Lúrio](https://www.unilurio.ac.mz/)
+- PhD in Epidemiology, University of São Paulo (FSP/USP), 2026. Thesis on determinants of sexual and reproductive health inequalities in sub-Saharan Africa (DHS data)
+- MSc in Public Health, Federal University of Rio Grande do Sul (UFRGS)
+- MBA in Artificial Intelligence and Big Data, ICMC/USP (in progress)
+- MBA in Advanced Analytics and Business Optimization, Federal University of Paraná (UFPR), 2025
+- MBA in Data Science and Analytics, USP/ESALQ
+- Specialization in Health Economics and Management, FSP/USP
+- Specialization in Global Health and Health Diplomacy, Fiocruz
+- Postgraduate diploma in Tropical Medicine and International Health, Universidade Lúrio
 
----
+## Experience
 
-## Professional Experience
+| Period | Role | Institution |
+|---|---|---|
+| 2025-present | Consultant, health economics and data analysis | Ministry of Health, Brazil (SE/DESID) |
+| 2025 | Consultant (PAHO/WHO) | Health and Environment Surveillance Secretariat (SVSA), Ministry of Health, Brazil |
+| 2024-2025 | Research intern | Institute for Health Policy Studies (IEPS) |
+| 2021-2023 | Researcher | Mozambique Institute for Health Education and Research (MIHER) |
+| 2014-present | Lecturer and researcher | Universidade Lúrio, Mozambique |
 
-- **2025 - present:** Consultant — Department of Health Economics and Development, Ministry of Health (Brazil)
-- **2025:** Consultant — OPAS/WHO at the Health Surveillance Secretariat (SVSA/ADENT), Ministry of Health (Brazil)
-- **2023 - 2025:** Research Assistant — Institute for Health Policy Studies (IEPS)
-- **2015 - present:** Teacher and Researcher — Universidade Lúrio (Mozambique)
-- **2021 - 2023:** Researcher — Mozambique Institute for Health Education and Research (MIHER)
+## Publications
 
----
+Full list on [ORCID](https://orcid.org/0000-0002-9784-6402) and [Lattes](http://lattes.cnpq.br/3626520704114870). Recent work includes two systematic reviews on the cervicovaginal microbiome and HPV, published in *Infectious Agents and Cancer* and *Journal of Translational Medicine* (2026, corresponding author).
 
-## Featured Projects
+## Repositories
 
-- [P10_acesso-cuidados-hiv-ssa-dhs](https://github.com/manuelmahoche/P10_acesso-cuidados-hiv-ssa-dhs) — analysis of access to HIV care using DHS data
-- [manuelmahoche](https://github.com/manuelmahoche/manuelmahoche) — personal academic and professional profile
+Analysis code for each study is made public here when the paper is submitted or published. Each repository follows the same layout (`data-raw/`, `R/`, `analysis/`, `output/`) and does not contain microdata: DHS and DATASUS files must be requested from the original providers.
 
----
+## Contact
 
-## 🌐 Academic Profiles
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9784--6402-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9784-6402)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-0B5394?style=flat-square)](http://lattes.cnpq.br/3626520704114870)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-mahoche-880108105/)
 
-- [Lattes](http://lattes.cnpq.br/3626520704114870)
-- [ORCID](https://orcid.org/0000-0002-9784-6402)
-- [LinkedIn](https://www.linkedin.com/in/manuel-mahoche-880108105/)
-
----
-
-## Current Work
-
-Currently working on:
-
-- Health economics studies for the Brazilian Unified Health System (SUS)
-- Cost-effectiveness analysis of public health interventions
-- Analysis of large-scale epidemiological datasets
-- Health data science pipelines using R, SQL, and Python
-
----
-
-## Collaboration
-
-I am interested in collaborating on:
-
-- Epidemiology research
-- Health economics
-- Global health projects
-- Data science for public health
-- Open health data projects
-
----
-
-⭐ Using data science and epidemiology to support evidence-based public health policies.
+Open to collaboration on epidemiology, health economics and global health projects, and to roles as epidemiologist, health data scientist or biostatistician.
