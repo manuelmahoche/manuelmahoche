@@ -1,0 +1,10 @@
+# Ficheiros gerados ao renderizar o README (RStudio/Quarto/pandoc)
+*.html
+*.tex
+*.log
+*.pdf
+*_files/
+.Rproj.user/
+.Rhistory
+.DS_Store
+Thumbs.db
