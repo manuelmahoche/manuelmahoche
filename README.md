@@ -63,7 +63,9 @@ Full list on [ORCID](https://orcid.org/0000-0002-9784-6402) and [Lattes](http://
 
 ## Repositories
 
-Analysis code for each study is made public here when the paper is submitted or published. Each repository follows the same layout (`data-raw/`, `R/`, `analysis/`, `output/`) and does not contain microdata: DHS and DATASUS files must be requested from the original providers.
+Analysis code for each study is made public here when the paper is submitted or published. Repositories contain code only, never microdata: DHS and DATASUS files must be requested from the original providers.
+
+- [A03_testagem-hiv-prenatal-ssa-ml](https://github.com/manuelmahoche/A03_testagem-hiv-prenatal-ssa-ml): antenatal HIV testing in 23 sub-Saharan African countries (DHS). Machine learning prediction, cross-country transportability and wealth inequality (R)
 
 ## Contact
 
