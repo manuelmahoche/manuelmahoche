@@ -6,7 +6,7 @@ I work on health inequalities in sub-Saharan Africa and Brazil. Most of my work 
 
 - Consultant, Department of Health Economics (DESID/SE), Ministry of Health, Brazil (since 2025)
 - Lecturer and researcher, Faculty of Health Sciences, Universidade Lúrio, Mozambique (since 2014); former Head of the Department of Research, Extension and Postgraduate Studies
-- PhD in Epidemiology, School of Public Health, University of São Paulo (FSP/USP), 2026
+- PhD in Epidemiology, School of Public Health, University of São Paulo (FSP/USP).
 
 ## Research
 
